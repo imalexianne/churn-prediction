@@ -46,7 +46,7 @@ The project showcases the following results:
 
 ## Workflow
 
-Open this https://github.com/imalexianne/churn-prediction/tree/master for further exploration.
+Open this https://github.com/imalexianne/churn-prediction/blob/master/Classification.ipynb for further exploration.
 
 
 ## Setup
@@ -71,16 +71,16 @@ The both long command-lines have a same structure, they pipe multiple commands u
 4. **Install the required libraries/packages** listed in the `requirements.txt` file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 
 
-[LinkedIn Article](https://github.com/imalexianne)
+[LinkedIn Article](https://www.linkedin.com/pulse/customer-churn-prediction-machine-learning-alexianne-imanirakarama)
+
+
+[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTA4MTJmMjMtNWU0OS00YmMwLTgyYTgtZmYzNGU2Y2RiMDk4IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
 
 
 ## Author
 - Alexianne Imanirakarama
 - Contact: imalexianne@gmail.com
-<<<<<<< HEAD
-- GitHub: [https://github.com/imalexianne](https://github.com/imalexianne)
-=======
 - [GitHub](https://github.com/imalexianne)
->>>>>>> add README.md file
+
 
 Feel free to reach out for any questions or feedback!
