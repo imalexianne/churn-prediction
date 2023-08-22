@@ -46,7 +46,7 @@ The project showcases the following results:
 
 ## Workflow
 
-Open this https://github.com/imalexianne/churn-prediction/blob/master/Classification.ipynb for further exploration.
+Open this [link](https://github.com/imalexianne/churn-prediction/blob/master/Customer_Churn_Classifier.ipynb) for further exploration.
 
 
 ## Setup
